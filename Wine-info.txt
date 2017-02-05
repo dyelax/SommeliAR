@@ -16,3 +16,15 @@ White:
 
 Red:
 
+- Type
+	- Gigognan Red
+- Region
+	- Côtes du Rhône, France
+- Vintage
+	- 2015
+- Flavors
+	- Cherry, tobacco, dark spice, green bell pepper.
+- Description
+	- Showing power and complexity while maintaining the grace which distinguishes this property, Gigognan Red is ripe and extracted.
+- Pairings
+	- Grilled steak, pork roast, grilled salmon, portobello mushrooms, sautéed green olives.

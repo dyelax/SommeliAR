@@ -1,0 +1,18 @@
+White:
+
+- Type
+	- Fly By Chardonnay
+- Region
+	- Sonoma County, CA, USA
+- Vintage
+	- 2014
+- Flavors
+	- Tropical fruit, pear, apricot, fig, honey, oak.
+- Description
+	- Fly By chardonnay is rich and creamy creamy with wonderful ripeness and complexity. Outstanding for its purity of flavor and detailed, long finish.
+- Pairings
+	- Steak béarnaise, veal chops with mushrooms, late summer vegetables, cheddar cheese, seared foie gras.
+
+
+Red:
+
